@@ -12,5 +12,5 @@
 | Эффект переобучения                               |    [Overfitting/Underfitting](over_underfitting.ipynb)        |    
 | Аналитические оценки обобщающей способности       |    [AIC/BIC](bic_aic.ipynb)                                   |      
 | Полный перебор                                    |           |   
-| Генетический алгоритм                             |           |     
+| Генетический алгоритм                             |      [GA](GA.ipynb)     |     
 | PyTorch                                           |           |    
