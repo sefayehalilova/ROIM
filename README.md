@@ -13,4 +13,4 @@
 | Аналитические оценки обобщающей способности       |    [AIC/BIC](bic_aic.ipynb)                                   |      
 | Полный перебор                                    |           |   
 | Генетический алгоритм                             |      [GA](GA.ipynb)     |     
-| Сверточная нейронная сеть (PyTorch )              |      [CNN_PyTorch](CNN_PyTorch (1).ipynb)     |    
+| Сверточная нейронная сеть (PyTorch )              |      [CNN/PyTorch](CNN_PyTorch (1).ipynb)     |    
