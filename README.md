@@ -7,10 +7,10 @@
 Практическая часть  
 ===================
 
-| Задача                                            | Ссылка                                                        | Ссылка на GoogleColab  |
+| Задача                                            | Ссылка                                                        | GoogleColab  |
 |:--------------------------------------------------|--------------------------------------------------------------:|-----------------------:|
-| Эффект переобучения                               |    [Overfitting/Underfitting](over_underfitting.ipynb)        |                        |
+| Эффект переобучения                               |    [Overfitting/Underfitting](over_underfitting.ipynb)        |                   |
 | Аналитические оценки обобщающей способности       |    [AIC/BIC](bic_aic.ipynb)                                   |                        |
 | Полный перебор                                    |           |                                                                            |
 | Генетический алгоритм                             |      [GA](GA.ipynb)     |                                                              |
-| Сверточная нейронная сеть (PyTorch )              |      [CNN](CNN.ipynb)    |                                                             |
+| Сверточная нейронная сеть (PyTorch )              |      [CNN](CNN.ipynb)    |  https://colab.research.google.com/drive/1L00oJ0vkhNFfzzf1Ok9SeXPUud8lZF6g?usp=sharing  |
