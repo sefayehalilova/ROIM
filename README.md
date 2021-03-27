@@ -1,8 +1,6 @@
 
 Доклад на тему **"Применение методов deep learning к задаче распознавания речи."**: 
- [Speech recognition](Презентация_Speech_recognition.pdf)
-
-
+[Speech recognition](Презентация_Speech_recognition.pdf)
 Практическая часть  
 ===================
 
@@ -13,4 +11,3 @@
 | Генетический алгоритм                             |      [GA](GA.ipynb)     | https://colab.research.google.com/drive/1jt-1VeZRALbRyKSNEMjFrjeyyOCKW-aZ?usp=sharing    |
 | Сверточная нейронная сеть (PyTorch )              |      [CNN](CNN.ipynb)    |  https://colab.research.google.com/drive/1L00oJ0vkhNFfzzf1Ok9SeXPUud8lZF6g?usp=sharing  |  
 | Нейронная сеть (PyTorch)                     |  [NN](NN.ipynb) | https://colab.research.google.com/drive/1p_DnwySwUV0nm8VdO_Pum1Lv3_ycX3vp?usp=sharing |  
-
